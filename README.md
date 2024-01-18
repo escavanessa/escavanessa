@@ -9,3 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... p5.js and intermediate Javascript!
 - ⚡ Fun fact: English, Spanish, and French Speaker!
 -->
+- ✨ I am Currently a Home Health Aid working over 44 hours a week! Coding on all my spare time
+- 🔭 I’m currently working on ... A desktop Notebook with all sorts of functionality!
+- 🌱 I’m currently learning ... p5.js and intermediate Javascript!
+- ⚡ Fun fact: English, Spanish, and French Speaker!
