@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... p5.js and intermediate Javascript!
 - ⚡ Fun fact: English, Spanish, and French Speaker!
 -->
-- ✨ I am Currently a Technical Support Intern! Coding on all my spare time
+- ✨ Working as Help Desk! Coding on all my spare time
 - 🔭 I’m currently working on ... Resident Patient Tracker using React!
 - 🌱 I’m currently learning ... p5.js and more advanced Javascript!
 - ⚡ Fun fact: English, Spanish, and French Speaker!
