@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Resident Patient Tracker using React!
 - 🌱 I’m currently learning ... Salesforce / LWC !
 - ⚡ Fun fact: English, Spanish, and French Speaker!
-[![My Skills](https://skillicons.dev/icons?i=js,rust,html,css,react,bootstrap,tailwind,github,git,nodejs,figma,blender,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,github,git,nodejs,figma,blender,ps,pr)](https://skillicons.dev)
